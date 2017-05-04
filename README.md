@@ -17,7 +17,7 @@ Loosely based on JWT
 - exp   Expires
 - nbf   Not Before
 - iat   Issued At
-- cfi   Config ID
+- cid   Config ID
 - nam   Service Name
 - zon   Zone
 - sid   Service ID
