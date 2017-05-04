@@ -7,7 +7,7 @@ Config Lib for HS
 Create secure config files with RSA
 Loosely based on JWT
 
-# Claims
+# Properties
 
 - typ   Type
 - alg   Algorithm
