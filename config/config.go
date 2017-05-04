@@ -9,6 +9,7 @@ import (
 type Properties map[string]interface{}
 
 func (p Properties) Validate() error {
+  return "NOT IMPLEMENTED"
 }
 
 func (p Properties) Get(key string)interface{} {
