@@ -19,6 +19,6 @@ Loosely based on JWT
 - iat   Issued At
 - cid   Config ID
 - nam   Service Name
-- zon   Zone
+- geo   Geographical Zone
 - sid   Service ID
 
